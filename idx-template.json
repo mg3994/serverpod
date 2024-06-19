@@ -1,0 +1,11 @@
+{
+    "name":"Severpod",
+    "description": "Serverpod is an open-source, scalable app server, written in Dart for the Flutter community.",
+    "categories": ["Mobile", "Backend", "API"],
+    "icon": "https://raw.githubusercontent.com/mg3994/serverpod/main/icon.svg",
+    "publisher": "Manish",
+     "host": {
+     "virtualization": true
+    }
+    
+}
